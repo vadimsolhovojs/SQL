@@ -28,7 +28,7 @@
     "lodash": "4.17.15",
     "moment": "2.24.0",
     "prettier": "1.18.2",
-    "sqlite3": "4.1.0",
+    "sqlite3": "5.0.0",
     "ts-jest": "24.0.2",
     "typescript": "3.6.2",
     "chalk": "^2.4.2"
